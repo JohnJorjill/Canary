@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jun 10 17:04:59 ULAT 2020
+1.base=D\:\\Projects\\Android native\\Android course\\Parse-Server-Starter-Project\\Twitter\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=D\:\\Projects\\Android native\\Android course\\Parse-Server-Starter-Project\\Twitter\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\Projects\\Android native\\Android course\\Parse-Server-Starter-Project\\Twitter\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+2.baseType=DIRECTORY
+1.path=classes2.dex

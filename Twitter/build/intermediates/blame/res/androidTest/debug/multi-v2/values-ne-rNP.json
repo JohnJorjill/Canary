@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\Android native\\Android course\\Parse-Server-Starter-Project\\Twitter\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\John\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\4949edf56acef3a9ad3893337b15d9fb\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,388,510,621,734,855,956,1056,1172,1281,1368",
+                        "endColumns": "105,121,110,112,120,100,99,115,108,86,94",
+                        "endOffsets": "383,505,616,729,850,951,1051,1167,1276,1363,1458"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,283,394,507,628,729,829,945,1054,1141",
+                        "endColumns": "105,121,110,112,120,100,99,115,108,86,94",
+                        "endOffsets": "156,278,389,502,623,724,824,940,1049,1136,1231"
+                    }
+                }
+            ]
+        }
+    ]
+}
